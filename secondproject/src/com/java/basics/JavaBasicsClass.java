@@ -11,7 +11,7 @@ public class JavaBasicsClass {
 	void sub()
 	{
 		d=(a+b)-c;
-		System.out.println("sub of ab and c:"+d);
+		System.out.println("sub of ab and c values:"+d);
 	}
 	void mul()
 	{
